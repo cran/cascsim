@@ -1,9 +1,9 @@
-47552befe409c778f7667baed43d88ee *DESCRIPTION
+ace638789453bd969e0a86fd26516ffc *DESCRIPTION
 b4a94553ddc80364c9a32282d11af012 *NAMESPACE
 07f73bcb0ba5d2845b61163dacd5e601 *R/A.R
 c2a86cfaaa9420f3260f2e0b743788f9 *R/CIndex.R
 bf324eaad6ae8c7d0ca9a390d58018d2 *R/CTriangle.R
-7e47ef3badf5897a021a1e7ae46c887a *R/Common.R
+a485cb5b18bc817b3087bec4e6ede18f *R/Common.R
 30654ef29ec5e91946b721766849105e *R/Copula.R
 7cf3216d13c4382da8feba57aca1c6c9 *R/DevFac.R
 b869e62c6ebe3c58f1f3fbdff8466b47 *R/Distribution.R
@@ -11,11 +11,11 @@ b869e62c6ebe3c58f1f3fbdff8466b47 *R/Distribution.R
 b3b9237ab02b940c8b31509ac66690f3 *R/Sim.R
 7410f5d89ea1cd8a32ab794e013680bb *R/Type.R
 745fcfc28c5819eafed32f3cb88d3b12 *R/data.R
-30cb97fbb2ab72954364f8b4ba3a44af *build/vignette.rds
+6980dac1d2e6178be0663090f83b569a *build/vignette.rds
 58c0f6e1ce76cb6edff657649cd4f38f *data/claimdata.RData
 a6c22a1fc2fe6690ef3ef1c2c0fe3872 *inst/css/report.css
 57cc6609f9ac99623d6b895ac3075c7f *inst/doc/cascsim.R
-a94bea8b267a7c822e97776d8a576d0b *inst/doc/cascsim.Rmd
+ba512355e5c13e2344074f935ecf3418 *inst/doc/cascsim.Rmd
 43751f608d994f8e5173e021395482c4 *inst/doc/cascsim.html
 e02043ba983e57180ed4e128119271c2 *man/CDFPlot-methods.Rd
 07b5d7664c2a131897515c8970e4a680 *man/ChiSqrTest-methods.Rd
@@ -124,4 +124,4 @@ d20308bb6a5365ccc7c2687cb4ee6221 *man/tpareto.Rd
 8857bc551140a76a12fd1a4de6dce44e *man/truncate.Rd
 967c288b6ca04dcb430446ac4f30db6c *man/tweibull.Rd
 e23586c793affd83ceec65e24d254634 *man/ultiDevFac.Rd
-a94bea8b267a7c822e97776d8a576d0b *vignettes/cascsim.Rmd
+ba512355e5c13e2344074f935ecf3418 *vignettes/cascsim.Rmd
